@@ -25,7 +25,9 @@
 				"D:/Games/ball/Content/NewWorld.umap",
 				"D:/Games/ball/Content/NewBlueprint1.uasset",
 				"D:/Games/ball/Content/floder/NewWidgetBlueprint.uasset",
-				"D:/Games/ball/Content/floder/NewWidgetBlueprint1.uasset"
+				"D:/Games/ball/Content/floder/NewWidgetBlueprint1.uasset",
+				"D:/github/The-Ball/Content/floder/BC_level.umap",
+				"D:/github/The-Ball/Content/floder/BC_pawn.uasset"
 			]
 		}
 	]
